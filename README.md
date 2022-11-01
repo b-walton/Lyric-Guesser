@@ -3,16 +3,24 @@ Email: benjamin.t.walton@vanderbilt.edu
 
 
 Project instructions:
+
+Prereq's:
+Node.js installed. 
+
 To set up node packages:
+
 Backend
+
    1. cd into backend
    2. run npm install
 
 Frontend
+
     1. cd into lyric_guesser
     2. run npm install
 
 Gameplay:
+
 Start Backend
     1. cd into backend
     2. run npm start
