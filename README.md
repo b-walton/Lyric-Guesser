@@ -5,7 +5,9 @@ Email: benjamin.t.walton@vanderbilt.edu
 Project instructions:
 
 Prereq's:
-Node.js installed. 
+
+1. Node installed
+2. npm installed
 
 To set up node packages:
 
